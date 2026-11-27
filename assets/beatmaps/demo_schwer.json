@@ -1,0 +1,950 @@
+{
+ "titel": "Demo-Track",
+ "interpret": "HitIT-Team",
+ "audiodatei": "assets/songs/demo.ogg",
+ "lizenz": "CC0 1.0 (eigene Komposition)",
+ "quelle": "Im Projekt HitIT synthetisch erzeugt (tools/songs.py)",
+ "bpm": 128.0,
+ "startOffset": 1600,
+ "spuren": 4,
+ "schwierigkeit": "schwer",
+ "vorschau": 16600,
+ "noten": [
+  {
+   "t": 1600,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 1834,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 2069,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 2303,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 2538,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 2772,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 3006,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 3240,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 3475,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 3709,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 3944,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 4178,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 4412,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 4646,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 4881,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 5115,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 5350,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 5584,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 5819,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 6053,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 6288,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 6522,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 6756,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 6990,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 7225,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 7459,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 7694,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 7928,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 8162,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 8396,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 8631,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 938
+  },
+  {
+   "t": 9569,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 9803,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 10038,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 10272,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 10506,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 10740,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 10975,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 11209,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 11444,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 11678,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 11912,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 12146,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12381,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 12615,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 12850,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 13084,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 13319,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 13553,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 13788,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 14022,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 14256,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 14490,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 14725,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 14959,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 15194,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 15428,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 15662,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 15896,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 16131,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 16365,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 16600,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 938
+  },
+  {
+   "t": 17538,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 17772,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 18006,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 18240,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 18475,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 18709,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 18944,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 19178,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 19412,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 19646,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 19881,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 20115,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 20350,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 20584,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 20819,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 21053,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 21288,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 21522,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 21756,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 21990,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 22225,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 22459,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 22694,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 22928,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 23162,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 23396,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 23631,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 23865,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 24100,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 24334,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 24569,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 938
+  },
+  {
+   "t": 25506,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 25740,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 25975,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 26209,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 26444,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 26678,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 26912,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 27146,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 27381,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 27615,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 27850,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 28084,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 28319,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 28553,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 28788,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 29022,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 29256,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 29490,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 29725,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 29959,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 30194,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 30428,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 30662,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 30896,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 31131,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 31365,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 31600,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 31834,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 32069,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 32303,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 32538,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 938
+  },
+  {
+   "t": 33475,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 33709,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 33944,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 34178,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 34412,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 34646,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 34881,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 35115,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 35350,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 35584,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 35819,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 36053,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 36288,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 36522,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 36756,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 36990,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 37225,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 37459,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 37694,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 37928,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 38162,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 38396,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 38631,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 38865,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 39100,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 39334,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 39569,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 39803,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 40038,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 40272,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 40506,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 938
+  },
+  {
+   "t": 41444,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 41678,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 41912,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 42146,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 42381,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 42615,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 42850,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 43084,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 43319,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 43553,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 43788,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 44022,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 44256,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 44490,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 44725,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 44959,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 45194,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 45428,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 45662,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 45896,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 46131,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 46365,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 46600,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 46834,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 47069,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 47303,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 47538,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 47772,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 48006,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 48240,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 48475,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 938
+  }
+ ]
+}

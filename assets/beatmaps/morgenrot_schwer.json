@@ -1,0 +1,553 @@
+{
+ "titel": "Morgenrot",
+ "interpret": "HitIT-Team",
+ "audiodatei": "assets/songs/morgenrot.ogg",
+ "lizenz": "CC0 1.0 (eigene Komposition)",
+ "quelle": "Im Projekt HitIT synthetisch erzeugt (tools/songs.py)",
+ "bpm": 100.0,
+ "startOffset": 2400,
+ "spuren": 4,
+ "schwierigkeit": "schwer",
+ "vorschau": 21600,
+ "noten": [
+  {
+   "t": 2400,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 2700,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 3000,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 3300,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 3600,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 3900,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 4200,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 4500,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 4800,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 6000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 6300,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 6600,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 6900,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 7200,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 7500,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 7800,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 8100,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 8400,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 8700,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 9000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 9300,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 9600,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 10800,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 11100,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 12300,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12600,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 12900,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 13200,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 13500,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 13800,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 14100,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 14400,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 15600,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 15900,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 16200,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 16500,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 16800,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 17100,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 17400,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 17700,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 18000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 18300,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 18600,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 18900,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 19200,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 20400,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 20700,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 21600,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 21900,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 22200,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 22500,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 22800,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 23100,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 23400,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 23700,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 24000,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 25200,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 25500,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 25800,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 26100,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 26400,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 26700,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 27000,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 27300,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 27600,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 27900,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 28200,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 28500,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 28800,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 30000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 30300,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 31200,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 31500,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 31800,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 32100,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 32400,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 32700,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 33000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 33300,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 33600,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 34800,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 35100,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 35400,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 35700,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 36000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 36300,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 36600,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 36900,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 37200,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 37500,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 37800,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 38100,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 38400,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 39600,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 39900,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 40800,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 41100,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 41400,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 41700,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 42000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 42300,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 42600,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 42900,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 43200,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 1080
+  },
+  {
+   "t": 44400,
+   "spur": 2,
+   "typ": "tap"
+  }
+ ]
+}

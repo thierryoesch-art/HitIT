@@ -1,0 +1,797 @@
+{
+ "titel": "Turbo Tiles",
+ "interpret": "HitIT-Team",
+ "audiodatei": "assets/songs/turbo_tiles.ogg",
+ "lizenz": "CC0 1.0 (eigene Komposition)",
+ "quelle": "Im Projekt HitIT synthetisch erzeugt (tools/songs.py)",
+ "bpm": 140.0,
+ "startOffset": 1714,
+ "spuren": 4,
+ "schwierigkeit": "schwer",
+ "vorschau": 15428,
+ "noten": [
+  {
+   "t": 1714,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 1928,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 2143,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 2357,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 2571,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 2785,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 3000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 3214,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 3428,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 4285,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 4499,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 4714,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 4928,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 5143,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 5357,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 5571,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 5785,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 6000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 6214,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 6428,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 6642,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 6857,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 7714,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 7928,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 8571,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 8785,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 9000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 9214,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 9428,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 9642,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 9857,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 10071,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 10285,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 11143,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 11357,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 11571,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 11785,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 12000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12214,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 12428,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 12642,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12857,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 13071,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 13285,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 13499,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 13714,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 14571,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 14785,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 15428,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 15642,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 15857,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 16071,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 16285,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 16499,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 16714,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 16928,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 17143,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 18000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 18214,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 18428,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 18642,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 18857,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 19071,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 19285,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 19499,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 19714,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 19928,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 20143,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 20357,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 20571,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 21428,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 21642,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 22285,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 22499,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 22714,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 22928,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 23143,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 23357,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 23571,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 23785,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 24000,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 24857,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 25071,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 25285,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 25499,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 25714,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 25928,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 26143,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 26357,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 26571,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 26785,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 27000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 27214,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 27428,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 28285,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 28499,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 29143,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 29357,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 29571,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 29785,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 30000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 30214,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 30428,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 30642,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 30857,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 31714,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 31928,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 32143,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 32357,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 32571,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 32785,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 33000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 33214,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 33428,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 33642,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 33857,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 34071,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 34285,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 35143,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 35357,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 36000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 36214,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 36428,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 36642,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 36857,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 37071,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 37285,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 37499,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 37714,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 38571,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 38785,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 39000,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 39214,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 39428,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 39642,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 39857,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 40071,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 40285,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 40499,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 40714,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 40928,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 41143,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 42000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 42214,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 42857,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 43071,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 43285,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 43499,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 43714,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 43928,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 44143,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 44357,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 44571,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 771
+  },
+  {
+   "t": 45428,
+   "spur": 0,
+   "typ": "tap"
+  }
+ ]
+}

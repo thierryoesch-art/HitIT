@@ -1,0 +1,619 @@
+{
+ "titel": "Kaskade",
+ "interpret": "HitIT-Team",
+ "audiodatei": "assets/songs/kaskade.ogg",
+ "lizenz": "CC0 1.0 (eigene Komposition)",
+ "quelle": "Im Projekt HitIT synthetisch erzeugt (tools/songs.py)",
+ "bpm": 110.0,
+ "startOffset": 2182,
+ "spuren": 4,
+ "schwierigkeit": "schwer",
+ "vorschau": 19636,
+ "noten": [
+  {
+   "t": 2182,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 2455,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 2727,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 3000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 3273,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 3546,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 3818,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 4091,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 4364,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 5455,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 5728,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 6000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 6273,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 6546,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 6819,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 7091,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 7364,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 7637,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 7910,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 8182,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 8455,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 8727,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 9818,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 10091,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 10909,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 11182,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 11455,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 11728,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 12273,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 12546,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 12819,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 13091,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 14182,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 14455,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 14727,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 15000,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 15273,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 15546,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 15818,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 16091,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 16364,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 16637,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 16909,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 17182,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 17455,
+   "spur": 2,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 18546,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 18819,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 19637,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 19910,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 20182,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 20455,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 20727,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 21000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 21273,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 21546,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 21818,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 22909,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 23182,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 23455,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 23728,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 24000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 24273,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 24546,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 24819,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 25091,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 25364,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 25637,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 25910,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 26182,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 27273,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 27546,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 28364,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 28637,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 28909,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 29182,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 29455,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 29728,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 30000,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 30273,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 30546,
+   "spur": 3,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 31637,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 31910,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 32182,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 32455,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 32727,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 33000,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 33273,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 33546,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 33818,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 34091,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 34364,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 34637,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 34909,
+   "spur": 1,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 36000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 36273,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 37091,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 37364,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 37637,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 37910,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 38182,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 38455,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 38727,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 39000,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 39273,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 40364,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 40637,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 40909,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 41182,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 41455,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 41728,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 42000,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 42273,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 42546,
+   "spur": 3,
+   "typ": "tap"
+  },
+  {
+   "t": 42819,
+   "spur": 0,
+   "typ": "tap"
+  },
+  {
+   "t": 43091,
+   "spur": 2,
+   "typ": "tap"
+  },
+  {
+   "t": 43364,
+   "spur": 1,
+   "typ": "tap"
+  },
+  {
+   "t": 43637,
+   "spur": 0,
+   "typ": "hold",
+   "dauer": 982
+  },
+  {
+   "t": 44727,
+   "spur": 2,
+   "typ": "tap"
+  }
+ ]
+}
